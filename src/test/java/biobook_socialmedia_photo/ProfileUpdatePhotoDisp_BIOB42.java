@@ -21,7 +21,7 @@ public class ProfileUpdatePhotoDisp_BIOB42 extends ConfigurationClass1
 	{
 		
 		String title =sel.getTitle();
-
+//
 	   	Assert.assertTrue(title.contains("Log in"),"login page is not Displayed");
 		//report.info("login page is displayed", UtilityListenerTransfer.getExtent());
 		
