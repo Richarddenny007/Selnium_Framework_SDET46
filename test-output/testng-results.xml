@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-07T17:37:29 IST" name="Default suite" finished-at="2023-03-07T17:37:44 IST" duration-ms="15185">
+    <groups>
+    </groups>
+    <test started-at="2023-03-07T17:37:29 IST" name="Default test" finished-at="2023-03-07T17:37:44 IST" duration-ms="15185">
+      <class name="biobook_socialmedia_home.CommentOnPhoto_BIOB35">
+        <test-method is-config="true" signature="configurationsetUp(java.lang.String)[pri:0, instance:biobook_socialmedia_home.CommentOnPhoto_BIOB35@7c711375]" started-at="2023-03-07T17:37:29 IST" name="configurationsetUp" finished-at="2023-03-07T17:37:32 IST" duration-ms="3264" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configurationsetUp -->
+        <test-method is-config="true" signature="launchApplicationsetUp()[pri:0, instance:biobook_socialmedia_home.CommentOnPhoto_BIOB35@7c711375]" started-at="2023-03-07T17:37:32 IST" name="launchApplicationsetUp" finished-at="2023-03-07T17:37:37 IST" duration-ms="4698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplicationsetUp -->
+        <test-method signature="CommentOnPhoto()[pri:0, instance:biobook_socialmedia_home.CommentOnPhoto_BIOB35@7c711375]" started-at="2023-03-07T17:37:37 IST" name="CommentOnPhoto" finished-at="2023-03-07T17:37:44 IST" duration-ms="6902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CommentOnPhoto -->
+        <test-method is-config="true" signature="closeApplicationTearDown()[pri:0, instance:biobook_socialmedia_home.CommentOnPhoto_BIOB35@7c711375]" started-at="2023-03-07T17:37:44 IST" name="closeApplicationTearDown" finished-at="2023-03-07T17:37:44 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplicationTearDown -->
+        <test-method is-config="true" signature="closeBrowserTearDown()[pri:0, instance:biobook_socialmedia_home.CommentOnPhoto_BIOB35@7c711375]" started-at="2023-03-07T17:37:44 IST" name="closeBrowserTearDown" finished-at="2023-03-07T17:37:44 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowserTearDown -->
+      </class> <!-- biobook_socialmedia_home.CommentOnPhoto_BIOB35 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

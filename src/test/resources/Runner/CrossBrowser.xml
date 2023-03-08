@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+
+  <test name="Test">
+    <classes>
+      <class name="biobook_socialmedia_home.UploadPhoto"/>
+      <class name="biobook_socialmedia_home.CommentOnPhoto_BIOB35"/>
+      <class name="biobook_socialmedia_home.ProfileUpdateHomeDisp_BIOB41"/>
+      <class name="biobook_socialmedia_photo.ProfileUpdatePhotoDisp_BIOB42"/>
+    </classes>
+  </test> <!-- Test -->
+  <test  name="Test1">
+  <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="biobook_socialmedia_home.UploadPhoto"/>
+      <class name="biobook_socialmedia_home.CommentOnPhoto_BIOB35"/>
+      <class name="biobook_socialmedia_home.ProfileUpdateHomeDisp_BIOB41"/>
+      <class name="biobook_socialmedia_photo.ProfileUpdatePhotoDisp_BIOB42"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
