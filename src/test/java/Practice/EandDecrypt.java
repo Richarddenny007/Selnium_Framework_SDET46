@@ -17,12 +17,11 @@ public class EandDecrypt {
 		String h = s.replaceAll(":", "-");
 		System.out.println(h);
 
-		System.out.println("hvgchv");
+		System.out.println("hvgchv");///
 		System.out.println();
 		System.out.println("njhgvhjmvgh");
 		System.out.println();
-//test case2
-
+//,l,l,
 		
 	}
 	
