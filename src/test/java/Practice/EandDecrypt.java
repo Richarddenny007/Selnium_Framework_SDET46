@@ -18,6 +18,10 @@ public class EandDecrypt {
 		System.out.println(h);
 		System.out.println("hvgchv");
 		System.out.println();
+		System.out.println("njhgvhjmvgh");
+		System.out.println();
+		
+
 		
 	}
 	

@@ -13,16 +13,13 @@ import org.testng.annotations.Test;
 import Base_Class.ConfigurationClass1;
 
 
-
-
-
 public class UploadPhoto extends ConfigurationClass1 
 {
 
 	@Test
 	public void uploadPhoto()
 	{
-		
+		//test case 1 pass
 		String title = sel.getTitle();
 
 		Assert.assertTrue(title.contains("Log in"),"Home page is not displayed");
