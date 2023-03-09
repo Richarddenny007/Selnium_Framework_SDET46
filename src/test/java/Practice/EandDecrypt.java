@@ -16,7 +16,12 @@ public class EandDecrypt {
 		String s = u.toString();
 		String h = s.replaceAll(":", "-");
 		System.out.println(h);
-		
+
+		System.out.println("hvgchv");
+		System.out.println();
+		System.out.println("njhgvhjmvgh");
+		System.out.println();
+
 		
 	}
 	
