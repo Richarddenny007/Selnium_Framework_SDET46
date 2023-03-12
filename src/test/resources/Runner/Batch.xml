@@ -7,7 +7,7 @@
       <class name="biobook_socialmedia_home.UploadPhoto"/>
       <class name="biobook_socialmedia_home.CommentOnPhoto_BIOB35"/>
       <class name="biobook_socialmedia_home.ProfileUpdateHomeDisp_BIOB41"/>
-      <class name="biobook_socialmedia_home.ProfileUpdatePhotoDisp_BIOB42"/>
+      <class name="biobook_socialmedia_photo.ProfileUpdatePhotoDisp_BIOB42"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
