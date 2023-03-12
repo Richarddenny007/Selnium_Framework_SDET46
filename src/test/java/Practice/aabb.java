@@ -8,7 +8,7 @@ public class aabb {
 	    for(int i=97;i<=122;i++)
 	    {
 	    	//aabbaaac
-	          
+	         //12-03-2023 
 	         String ch = ((char)i+" ");
 	         System.out.print(ch);
 	         if(ch=="a")
