@@ -53,7 +53,7 @@ public class ConfigurationClass1 extends Variable_Declaration
 		 }
 		 else
 		 {
-	     driver=sel.openBrowser(browser);
+			 driver=sel.openBrowser(browser);
 		 }
 		
 		sel.maximizeBrowser();
